@@ -1,5 +1,5 @@
 
-###  2023-11-05T22:16:12+08:00
+###  2023-11-06T00:19:53+08:00
 ```bash
 # GitHubHosts Start
 
@@ -7,6 +7,7 @@
 140.82.112.4                  live.github.com
 140.82.112.4                  central.github.com
 140.82.112.4                  assets-cdn.github.com
+151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.4                  gist.github.com
 185.199.108.153               github.io
