@@ -1,5 +1,5 @@
 
-###  2023-11-11T06:16:20+08:00
+###  2023-11-11T10:12:59+08:00
 ```bash
 # GitHubHosts Start
 
@@ -25,11 +25,17 @@
 140.82.114.17                 github.community
 52.224.38.193                 github.dev
 140.82.114.4                  collector.github.com
+185.199.108.133               objects.githubusercontent.com
 140.82.114.4                  documentcloud.github.com
+185.199.108.133               gist.githubusercontent.com
 140.82.114.4                  help.github.com
 140.82.114.4                  nodeload.github.com
 140.82.114.4                  status.github.com
 140.82.114.4                  training.github.com
+185.199.108.133               avatars6.githubusercontent.com
+185.199.108.133               avatars7.githubusercontent.com
+185.199.108.133               avatars8.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
 140.82.114.4                  customer-stories-feed.github.com
 140.82.114.4                  pages.github.com
 140.82.112.29                 githubapp.com
